@@ -55,9 +55,9 @@ vagas.csv (LinkedIn)
       ↓
 data_loader.py   ←  leitura com pd.read_csv()
       ↓
-transform.py     ←  limpeza, deduplicação, padronização
+transform.py     ←  NLP + classificação + limpeza
       ↓
-analytics.py     ←  NLP + classificação de senioridade + gráficos
+analytics.py     ←  gráficos e análises
       ↓
 app.py           ←  dashboard com filtros interativos
 ```
