@@ -127,7 +127,7 @@ pip install pandas streamlit plotly
 streamlit run src/app.py
 ```
 
-Acesse em: [http://localhost:8501](http://localhost:8501)
+Acesse em: [https://tech-jobs-analytics-svxpus5jchvp7zrrpztecj.streamlit.app/]
 
 ---
 
