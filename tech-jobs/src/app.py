@@ -64,17 +64,11 @@ if tecnologia != "Todas":
 col1, col2, col3, col4 = st.columns(4)
 
 col1.metric("Vagas", len(df_filtrado))
-col2.metric("Empresas", df_filtrado["title"].nunique())
+col2.metric("Cargos únicos", df_filtrado["title"].nunique())
 col3.metric("Localizações", df_filtrado["location"].nunique())
 col4.metric("Skills", len(TECNOLOGIAS))
 
 st.dataframe(df_filtrado)
-
-st.write(df["time"].head(10))
-
-st.write(df[["title", "tecnologias"]].head(10))
-
-st.write(df[["title", "nivel"]].head(10))
 
 col1, col2 = st.columns(2)
 
