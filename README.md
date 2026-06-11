@@ -102,7 +102,7 @@ app.py           ←  dashboard com filtros interativos
 
 **1. Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/tech-jobs-analytics.git
+git clone https://github.com/giovanna-borges1/tech-jobs-analytics.git
 cd tech-jobs-analytics
 ```
 
