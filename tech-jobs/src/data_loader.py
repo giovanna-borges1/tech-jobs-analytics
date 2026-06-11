@@ -7,6 +7,8 @@ BASE_DIR = os.path.dirname(
     )
 )
 
-df = pd.read_csv(
-    os.path.join(BASE_DIR, "data", "vagas.csv")
-)
+def carregar_dados():
+    df = pd.read_csv(
+        os.path.join(BASE_DIR, "data", "vagas.csv")
+    )
+    return df
