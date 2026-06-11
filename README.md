@@ -81,20 +81,20 @@ app.py           ←  dashboard com filtros interativos
 
 ## Funcionalidades do Dashboard
 
-- 📍 **Vagas por localização** — onde estão concentradas as oportunidades
-- 💼 **Top cargos** — os títulos mais recorrentes no mercado
-- 📅 **Evolução temporal** — como as vagas se distribuem ao longo do tempo
-- 🛠️ **Tecnologias mais requisitadas** — extração automática via NLP
-- 🎓 **Distribuição de senioridade** — classificação automática (Junior / Pleno / Sênior)
-- 🔎 **Filtros interativos** — por localização, senioridade e tecnologia
+- **Vagas por localização** — onde estão concentradas as oportunidades
+- **Top cargos** — os títulos mais recorrentes no mercado
+- **Evolução temporal** — como as vagas se distribuem ao longo do tempo
+- **Tecnologias mais requisitadas** — extração automática via NLP
+- **Distribuição de senioridade** — classificação automática (Junior / Pleno / Sênior)
+- **Filtros interativos** — por localização, senioridade e tecnologia
 
 ---
 
 ## Principais Insights
 
-- 🛠️ **Tecnologias mais exigidas:** Python e SQL lideram com ampla vantagem
-- 📍 **Concentração geográfica:** a maioria das vagas está em São Paulo e remote
-- 🎓 **Senioridade:** vagas para Pleno e Sênior superam as de Júnior na maior parte das áreas
+- **Tecnologias mais exigidas:** Python e SQL lideram com ampla vantagem
+- **Concentração geográfica:** a maioria das vagas está em São Paulo e remote
+- **Senioridade:** vagas para Pleno e Sênior superam as de Júnior na maior parte das áreas
 
 ---
 
